@@ -1,6 +1,11 @@
 # Máy tính tuổi thông minh
 Một chiếc máy tính tuổi thông minh sử dụng công nghệ ây ai hàng đầu thế giới
 
+# Hướng dẫn sử dụng
+Chỉ cần tải xuống tệp Máy tính tuổi thông minh.exe là xong
+
+
+
 # Mô tả
 Máy tính tuổi thông minh (MTTT) là một công nghệ tiên tiến đang thay đổi cách chúng ta tương tác với máy tính và làm việc trong cuộc sống hàng ngày. Với sự kết hợp giữa trí tuệ nhân tạo và học máy, MTTT có khả năng tự động học và áp dụng tri thức từ dữ liệu để thực hiện các tác vụ thông minh.
 
